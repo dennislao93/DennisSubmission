@@ -1,0 +1,11 @@
+Company
+Sales Name
+Total Transacted USD Volume of Company
+Top Client Name
+Total Transacted USD Volume of Top Client
+
+company -> data
+
+data:
+  sales id -> vol
+  client id -> vol
