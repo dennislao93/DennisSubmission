@@ -1,0 +1,21 @@
+AT&T, Sophia, 657469034.77, Joshua, 94810237.09
+Amazon, Anna, 1232263092.20, Luke, 101288499.91
+AmerisourceBergen, Isaac, 666292125.57, Vivian, 91158014.18
+Apple, Andrew, 998723093.63, Jose, 92741610.69
+BP, Mia, 1059833704.31, Natalie, 93517813.35
+Berkshire Hathaway, Roman, 933731166.01, Levi, 94820169.22
+CVS Health, Zoe, 849559504.03, Adam, 96506765.54
+Daimler, Valentina, 822129089.01, Ryan, 90175265.09
+Exor, Jace, 457329914.97, Nicholas, 87928205.64
+Exxon Mobil, Henry, 1002119446.39, Hannah, 95009776.06
+Ford, Samuel, 931293356.93, Aaliyah, 98322941.29
+Foxconn, Theodore, 645266045.73, Autumn, 96612777.93
+General Motors, Daniel, 767324845.53, Charlotte, 91923056.00
+Glencore, Theodore, 405116470.46, Madeline, 87873996.67
+McKesson, Amelia, 764497002.64, Eva, 92971257.85
+Royal Dutch Shell, Kennedy, 838494736.34, Elias, 103892055.12
+Samsung, Valentina, 763819821.35, Valentina, 92656195.78
+Toyota, Cora, 508729651.36, Kinsley, 95858697.39
+United Health, Emily, 911417683.54, Grace, 92544549.64
+Volkswagen, Mila, 843179138.63, Leo, 95026145.54
+Walmart, Hunter, 576101309.39, Gabriel, 94362215.16
